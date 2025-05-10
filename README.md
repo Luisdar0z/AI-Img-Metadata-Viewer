@@ -18,6 +18,9 @@ Metadata Viewer es una aplicación de interfaz gráfica (GUI) desarrollada en Py
 - 🎨 Diseño moderno con colores personalizados
 - 📏 Ajuste automático del tamaño de la ventana según las dimensiones de la imagen
 
+![Screenshot_1](https://github.com/user-attachments/assets/cd3a59bd-f165-4900-838a-52cd3e12ee67)
+
+
 ## Requisitos Previos
 
 - Python 3.8 o superior
